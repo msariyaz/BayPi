@@ -1,7 +1,7 @@
 Bay Pi
 =====
 
-Raspberry Pi için kodlanmış sanal bir robot.
+Raspberry Pi için kodlanmış, geliştirilebilir basit bir sanal robot.
 
 Çalıştırmak için:
 
