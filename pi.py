@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#Program adı	: Bay Pi
+#Program adı		: Bay Pi
 #Kodlama		: Mert Sarıyaz
 #Tarih			: 17 Aralık 2013
 #Amacı			: Asistan
